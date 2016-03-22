@@ -1,2 +1,2 @@
 # OpenCV-Project
-Used some sample OpenCV codes, made some alterations to test out results.
+Used some sample OpenCV codes in C++, made some alterations to test out results.
